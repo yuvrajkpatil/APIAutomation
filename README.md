@@ -45,9 +45,3 @@ These paths are for Windows machine specific, you can run respective commands fo
 ![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/master/images/console.png)
 
 ![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/master/images/logs.png)
-
-
-Extra Information/Libraries/Updates/Documentations/Tools:
--------------------------------------------------------
-
-https://robotframework.org/
