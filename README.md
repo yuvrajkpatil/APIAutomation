@@ -42,9 +42,9 @@ These paths are for Windows machine specific, you can run respective commands fo
 4. To execute test cases with specific marker: Below command will execute only test cases which are marked as p0
     $ pytest -s --html=logs\Report.html --self-contained-html --capture sys -m p0
 
-![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/main/images/console.png)
+![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/master/images/console.png)
 
-![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/main/images/logs.png)
+![alt text](https://raw.githubusercontent.com/yuvrajkpatil/APIAutomation/master/images/logs.png)
 
 
 Extra Information/Libraries/Updates/Documentations/Tools:
